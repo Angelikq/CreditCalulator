@@ -1,0 +1,12 @@
+C:\Users\andzi\source\repos\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.csproj.AssemblyReference.cache
+C:\Users\andzi\source\repos\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.MainForm.resources
+C:\Users\andzi\source\repos\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.Properties.Resources.resources
+C:\Users\andzi\source\repos\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.csproj.GenerateResource.cache
+C:\Users\andzi\source\repos\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.csproj.CoreCompileInputs.cache
+C:\Users\andzi\source\repos\CreditCalculator\CreditCalculator\bin\Debug\CreditCalculator.exe.config
+C:\Users\andzi\source\repos\CreditCalculator\CreditCalculator\bin\Debug\CreditCalculator.exe
+C:\Users\andzi\source\repos\CreditCalculator\CreditCalculator\bin\Debug\CreditCalculator.pdb
+C:\Users\andzi\source\repos\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.exe
+C:\Users\andzi\source\repos\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.pdb
+C:\Users\andzi\source\repos\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.WelcomeForm.resources
+C:\Users\andzi\source\repos\CreditCalculator\CreditCalculator\obj\Debug\CreditCalculator.RepaymentScheduleForm.resources
